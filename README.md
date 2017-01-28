@@ -9,3 +9,10 @@ Techniques -
   3. Adaptive thresholding
   4. Feature engineering - Identifying gaps between sentences
   5. XgBoost ensemble
+
+"ImageCleaning.R" - R code - impelemted algorithms for image processing.
+"XGboost.R" - Complements "ImageCleaning.R" ensembling different techniques.
+"TeamsmaRt_Project1_Image_Processing.pptx" - White-Paper for the project.
+"TeamsmaRt_Project1_Image_Processing.pptx" - Powerpoint Presentation of project.
+"XGBoost_Workspace_Image.RData" - RData file with preinitialized variables (to save time to load the images in vectors)
+"train_sample" - Sample images folder.
